@@ -1,0 +1,7 @@
+{
+    "port": 5000,
+    "jwtSecret": "aishize token",
+    "mongoUri": "mongodb+srv://klinton:rewq4321@cluster0-zctkv.mongodb.net/test?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+  }
+  
